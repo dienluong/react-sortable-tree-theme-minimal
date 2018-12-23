@@ -1,7 +1,7 @@
 {
-  "name": "react-sortable-tree-theme-minimal",
-  "version": "0.0.13",
-  "description": "Minimal theme for react-sortable-tree",
+  "name": "react-sortable-tree-theme-mobile",
+  "version": "0.0.1",
+  "description": "Mobile theme for react-sortable-tree, based on \"lifejuggler/react-sortable-tree-theme-minimal\"",
   "scripts": {
     "build": "npm run clean && cross-env NODE_ENV=production TARGET=umd webpack --bail",
     "build:demo": "npm run clean:demo && cross-env NODE_ENV=production TARGET=demo webpack --bail",
@@ -19,12 +19,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lifejuggler/react-sortable-tree-theme-minimal"
+    "url": "https://github.com/dienluong/react-sortable-tree-theme-mobile"
   },
-  "homepage": "https://github.com/lifejuggler/react-sortable-tree-theme-minimal",
-  "bugs": "https://github.com/lifejuggler/react-sortable-tree-theme-minimal/issues",
+  "homepage": "https://github.com/dienluong/react-sortable-tree-theme-mobile",
+  "bugs": "https://github.com/dienluong/react-sortable-tree-theme-mobile/issues",
   "authors": [
-    "Tom Choi"
+    "Dien Luong"
   ],
   "license": "MIT",
   "jest": {

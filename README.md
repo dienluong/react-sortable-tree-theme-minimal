@@ -1,19 +1,19 @@
-# Minimal React Sortable Tree Theme
+# Mobile React Sortable Tree Theme
 <img alt="theme appearance" src="./example-resource/main.png" width="500">
 
 ## Features
-* Minimalistic Theme for React Sortable Tree
+* Mobile-centric Theme for React Sortable Tree
 
 ## Usage
 
 ```sh
-npm install --save react-sortable-tree-theme-minimal
+npm install --save react-sortable-tree-theme-mobile
 ```
 
 ```jsx
 import React, { Component } from 'react';
 import SortableTree from 'react-sortable-tree';
-import FileExplorerTheme from 'react-sortable-tree-theme-minimal';
+import FileExplorerTheme from 'react-sortable-tree-theme-mobile';
 
 export default class Tree extends Component {
   constructor(props) {
